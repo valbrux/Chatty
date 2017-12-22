@@ -1,4 +1,4 @@
-#Chatty
+# Chatty
 
 ## Description
 Chatty is a simple socket-chat written in C.
